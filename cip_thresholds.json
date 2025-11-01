@@ -1,0 +1,92 @@
+[
+  {
+    "line": "линия 1",
+    "mode": "штуки",
+    "volume_threshold": 50000,
+    "product_threshold": 30000,
+    "min_remainder": 2000,
+    "cip_type": "CIP2",
+    "enabled": true
+  },
+  {
+    "line": "линия 10",
+    "mode": "штуки",
+    "volume_threshold": 50000,
+    "product_threshold": 30000,
+    "min_remainder": 2000,
+    "cip_type": "CIP2",
+    "enabled": true
+  },
+  {
+    "line": "линия 2",
+    "mode": "штуки",
+    "volume_threshold": 50000,
+    "product_threshold": 30000,
+    "min_remainder": 2000,
+    "cip_type": "CIP2",
+    "enabled": true
+  },
+  {
+    "line": "линия 3",
+    "mode": "масса",
+    "volume_threshold": 60000,
+    "product_threshold": 60000,
+    "min_remainder": 5000,
+    "cip_type": "CIP2",
+    "enabled": true
+  },
+  {
+    "line": "линия 4",
+    "mode": "штуки",
+    "volume_threshold": 50000,
+    "product_threshold": 30000,
+    "min_remainder": 2000,
+    "cip_type": "CIP2",
+    "enabled": true
+  },
+  {
+    "line": "линия 5",
+    "mode": "масса",
+    "volume_threshold": 50000,
+    "product_threshold": 26000,
+    "min_remainder": 2000,
+    "cip_type": "CIP1",
+    "enabled": true
+  },
+  {
+    "line": "линия 6",
+    "mode": "штуки",
+    "volume_threshold": 50000,
+    "product_threshold": 30000,
+    "min_remainder": 2000,
+    "cip_type": "CIP2",
+    "enabled": true
+  },
+  {
+    "line": "линия 7",
+    "mode": "штуки",
+    "volume_threshold": 50000,
+    "product_threshold": 30000,
+    "min_remainder": 2000,
+    "cip_type": "CIP2",
+    "enabled": true
+  },
+  {
+    "line": "линия 8",
+    "mode": "штуки",
+    "volume_threshold": 50000,
+    "product_threshold": 30000,
+    "min_remainder": 2000,
+    "cip_type": "CIP2",
+    "enabled": true
+  },
+  {
+    "line": "линия 9",
+    "mode": "штуки",
+    "volume_threshold": 50000,
+    "product_threshold": 30000,
+    "min_remainder": 2000,
+    "cip_type": "CIP2",
+    "enabled": true
+  }
+]

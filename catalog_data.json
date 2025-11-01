@@ -1,0 +1,2914 @@
+[
+  {
+    "name": "Безалкогольный напиток Битер Лемон",
+    "line": "",
+    "container": "0,25 л",
+    "speed": null,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Безалкогольный напиток Дыня Хоккайдо",
+    "line": "",
+    "container": "0,25 л",
+    "speed": null,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Безалкогольный напиток Индиан Тоник",
+    "line": "",
+    "container": "0,25 л",
+    "speed": null,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Безалкогольный напиток Клубника-Вишня-Ананас",
+    "line": "",
+    "container": "0,25 л",
+    "speed": null,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Безалкогольный напиток Клюква-Баблгам",
+    "line": "",
+    "container": "0,25 л",
+    "speed": null,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Безалкогольный напиток Лаванда",
+    "line": "",
+    "container": "0,25 л",
+    "speed": null,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Безалкогольный напиток Малина-Маракуйя",
+    "line": "",
+    "container": "0,25 л",
+    "speed": null,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Безалкогольный напиток Сладкая Вата",
+    "line": "",
+    "container": "0,25 л",
+    "speed": null,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Безалкогольный напиток Содовая",
+    "line": "",
+    "container": "0,25 л",
+    "speed": null,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Безалкогольный напиток Тутти Фрути",
+    "line": "",
+    "container": "0,25 л",
+    "speed": null,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Безалкогольный напиток Фейхуа-Киви",
+    "line": "",
+    "container": "0,25 л",
+    "speed": null,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Безалкогольный напиток Фейхуа-Киви-Яблоко",
+    "line": "",
+    "container": "0,25 л",
+    "speed": null,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Безалкогольный энергетический напиток Гранат",
+    "line": "",
+    "container": "0,25 л",
+    "speed": null,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Безалкогольный энергетический напиток Гуава-Лайм-Мята",
+    "line": "",
+    "container": "0,25 л",
+    "speed": null,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Безалкогольный энергетический напиток Манго-Кокос",
+    "line": "",
+    "container": "0,25 л",
+    "speed": null,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Безалкогольный энергетический напиток Оридженал",
+    "line": "",
+    "container": "0,25 л",
+    "speed": null,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Концентрат Апельсин ТМ \"Баринофф\"",
+    "line": "линия 7",
+    "container": "1,0 кг",
+    "speed": 200.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Концентрат Апельсин-Имбирь ТМ \"Баринофф\"",
+    "line": "линия 7",
+    "container": "1,0 кг",
+    "speed": 200.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Концентрат Грейпфрут-Бузина ТМ \"Баринофф\"",
+    "line": "линия 7",
+    "container": "1,0 кг",
+    "speed": 200.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Концентрат Киви ТМ \"Баринофф\"",
+    "line": "линия 7",
+    "container": "1,0 кг",
+    "speed": 200.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Концентрат Клубника ТМ \"RIOBA\"",
+    "line": "линия 7",
+    "container": "1,0 кг",
+    "speed": 200.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Концентрат Клубника ТМ \"Баринофф\"",
+    "line": "линия 7",
+    "container": "1,0 кг",
+    "speed": 200.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Концентрат Лесная Ягода ТМ \"Баринофф\"",
+    "line": "линия 7",
+    "container": "1,0 кг",
+    "speed": 200.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Концентрат Лесные Ягоды 1,0 кг ТМ \"Баринофф\"",
+    "line": "",
+    "container": "1,0 кг",
+    "speed": null,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Концентрат Лимон-Имбирь ТМ \"Баринофф\"",
+    "line": "линия 7",
+    "container": "1,0 кг",
+    "speed": 200.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Концентрат Малина-Имбирь ТМ \"Баринофф\"",
+    "line": "линия 7",
+    "container": "1,0 кг",
+    "speed": 200.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Концентрат Манго ТМ \"RIOBA\"",
+    "line": "линия 7",
+    "container": "1,0 кг",
+    "speed": 200.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Концентрат Манго ТМ \"Баринофф\"",
+    "line": "линия 7",
+    "container": "1,0 кг",
+    "speed": 200.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Концентрат Манго-Маракуйя ТМ \"Баринофф\"",
+    "line": "линия 7",
+    "container": "1,0 кг",
+    "speed": 200.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Концентрат Маракуйя ТМ \"RIOBA\"",
+    "line": "линия 7",
+    "container": "1,0 кг",
+    "speed": 200.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Концентрат Облепиха-Имбирь ТМ \"Баринофф\"",
+    "line": "линия 7",
+    "container": "1,0 кг",
+    "speed": 200.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Концентрат Ревень 1,0 кг ТМ \"Баринофф\"",
+    "line": "",
+    "container": "1,0 кг",
+    "speed": null,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Концентрат Черная Смородина -Мята ТМ \"Баринофф\"",
+    "line": "линия 7",
+    "container": "1,0 кг",
+    "speed": 200.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Концентрат Черная Смородина-Кр Смородина ТМ \"Баринофф\"",
+    "line": "линия 7",
+    "container": "1,0 кг",
+    "speed": 200.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Концентрат Черная Смородина-Малина ТМ \"Баринофф\"",
+    "line": "линия 7",
+    "container": "1,0 кг",
+    "speed": 200.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Концентрат Черная Смородина-Мята ТМ \"Баринофф\"",
+    "line": "линия 7",
+    "container": "1,0 кг",
+    "speed": 200.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Концентрат Черника ТМ \"Баринофф\"",
+    "line": "линия 7",
+    "container": "1,0 кг",
+    "speed": 200.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Концентрат Черника-Мята ТМ \"Баринофф\"",
+    "line": "линия 7",
+    "container": "1,0 кг",
+    "speed": 200.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Концентрат Юзу ТМ \"Баринофф\"",
+    "line": "линия 7",
+    "container": "1,0 кг",
+    "speed": 200.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Концентрат Яблоко ТМ \"Баринофф\"",
+    "line": "линия 7",
+    "container": "1,0 кг",
+    "speed": 200.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Концентрат Яблоко-Корица ТМ \"Баринофф\"",
+    "line": "линия 7",
+    "container": "1,0 кг",
+    "speed": 200.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Концентрат Ягодный Микс-Базилик ТМ \"Баринофф\"",
+    "line": "линия 7",
+    "container": "1,0 кг",
+    "speed": 200.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Морс Брусника ТМ \"Баринофф\"",
+    "line": "линия 6",
+    "container": "3,0 л",
+    "speed": 500.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Морс Брусника ТМ \"Русский Морс\"",
+    "line": "линия 6",
+    "container": "3,0 л",
+    "speed": 500.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Морс Клюква ТМ \"RIOBA\"",
+    "line": "линия 6",
+    "container": "3,0 л",
+    "speed": 500.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Морс Клюква ТМ \"Русский Морс\"",
+    "line": "линия 6",
+    "container": "3,0 л",
+    "speed": 500.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Морс Облепиха ТМ \"Русский Морс\"",
+    "line": "линия 6",
+    "container": "3,0 л",
+    "speed": 500.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Морс Ягодный Сбор ТМ \"RIOBA\"",
+    "line": "линия 6",
+    "container": "3,0 л",
+    "speed": 500.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Морс Ягодный Сбор ТМ \"Русский Морс\"",
+    "line": "линия 6",
+    "container": "3,0 л",
+    "speed": 500.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Напиток Апельсин ТМ \"Баринофф\"",
+    "line": "линия 6",
+    "container": "3,0 л",
+    "speed": 500.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Напиток Белый Виноград ТМ \"Баринофф\"",
+    "line": "линия 6",
+    "container": "3,0 л",
+    "speed": 500.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Напиток Виноград Красный ТМ \"Баринофф\"",
+    "line": "линия 6",
+    "container": "3,0 л",
+    "speed": 500.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Напиток Вишня ТМ \"Баринофф\"",
+    "line": "линия 6",
+    "container": "3,0 л",
+    "speed": 500.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Напиток Гранат ТМ \"365 Дней\"",
+    "line": "линия 3",
+    "container": "1,0 л",
+    "speed": 4600.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Напиток Гранат ТМ \"Для Всей Семьи\"",
+    "line": "линия 3",
+    "container": "1,0 л",
+    "speed": 4600.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Напиток Гранат ТМ \"Каждый День\"",
+    "line": "линия 3",
+    "container": "1,0 л",
+    "speed": 4600.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Напиток Груша ТМ \"Баринофф\"",
+    "line": "линия 6",
+    "container": "3,0 л",
+    "speed": 500.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Напиток Красный Виноград ТМ \"Баринофф\"",
+    "line": "линия 6",
+    "container": "3,0 л",
+    "speed": 500.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Напиток Манго ТМ \"Баринофф\"",
+    "line": "линия 6",
+    "container": "3,0 л",
+    "speed": 500.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Напиток Мультифрукт ТМ \"Баринофф\"",
+    "line": "линия 6",
+    "container": "3,0 л",
+    "speed": 500.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Напиток Персик ТМ \"Баринофф\"",
+    "line": "линия 6",
+    "container": "3,0 л",
+    "speed": 500.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Напиток Яблоко ТМ \"Баринофф\"",
+    "line": "линия 6",
+    "container": "3,0 л",
+    "speed": 500.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Нектар Банан-Киви ТМ \"100% Джус\"",
+    "line": "линия 2",
+    "container": "0,25 л",
+    "speed": 6500.0,
+    "limit": 100000.0,
+    "action": "СИП2"
+  },
+  {
+    "name": "Нектар Банан-Киви ТМ \"100% Джус\"",
+    "line": "линия 4",
+    "container": "0,25 л",
+    "speed": 5500.0,
+    "limit": 100000.0,
+    "action": "СИП2"
+  },
+  {
+    "name": "Нектар Банан-Клубника ТМ \"100% Джус\"",
+    "line": "линия 2",
+    "container": "0,25 л",
+    "speed": 6500.0,
+    "limit": 100000.0,
+    "action": "СИП2"
+  },
+  {
+    "name": "Нектар Банан-Клубника ТМ \"Баринофф\"",
+    "line": "линия 4",
+    "container": "0,25 л",
+    "speed": 5500.0,
+    "limit": 100000.0,
+    "action": "СИП2"
+  },
+  {
+    "name": "Нектар Банан-Клубника ТМ \"Вау Мяу\"",
+    "line": "линия 4",
+    "container": "0,33 л",
+    "speed": 5500.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Нектар Вишня ТМ \"100% Джус\"",
+    "line": "линия 2",
+    "container": "0,25 л",
+    "speed": 6500.0,
+    "limit": 100000.0,
+    "action": "СИП2"
+  },
+  {
+    "name": "Нектар Вишня ТМ \"100% Джус\"",
+    "line": "линия 4",
+    "container": "0,25 л",
+    "speed": 5500.0,
+    "limit": 100000.0,
+    "action": "СИП2"
+  },
+  {
+    "name": "Нектар Вишня ТМ \"Баринофф\"",
+    "line": "линия 3",
+    "container": "1,0 л",
+    "speed": 4600.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Нектар Вишня ТМ \"Мамина Дача\"",
+    "line": "линия 3",
+    "container": "0,75 л",
+    "speed": 4600.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Нектар Гранат ТМ \"Granatel\"",
+    "line": "линия 3",
+    "container": "1,0 л",
+    "speed": 4600.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Нектар Гранат ТМ \"Гранатовый Рай\"",
+    "line": "линия 3",
+    "container": "1,0 л",
+    "speed": 4600.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Нектар Гранат ТМ \"Дети\"",
+    "line": "линия 2",
+    "container": "0,25 л",
+    "speed": 6500.0,
+    "limit": 100000.0,
+    "action": "СИП2"
+  },
+  {
+    "name": "Нектар Гранат ТМ \"Дети\"",
+    "line": "линия 4",
+    "container": "0,25 л",
+    "speed": 5500.0,
+    "limit": 100000.0,
+    "action": "СИП2"
+  },
+  {
+    "name": "Нектар Манго ТМ \"100% Джус\"",
+    "line": "линия 2",
+    "container": "0,25 л",
+    "speed": 6500.0,
+    "limit": 100000.0,
+    "action": "СИП2"
+  },
+  {
+    "name": "Нектар Манго ТМ \"100% Джус\"",
+    "line": "линия 4",
+    "container": "0,25 л",
+    "speed": 5500.0,
+    "limit": 100000.0,
+    "action": "СИП2"
+  },
+  {
+    "name": "Нектар Манго ТМ \"OLIFE\"",
+    "line": "линия 4",
+    "container": "0,25 л",
+    "speed": 5500.0,
+    "limit": 100000.0,
+    "action": "СИП2"
+  },
+  {
+    "name": "Нектар Манго ТМ \"Spar\"",
+    "line": "линия 4",
+    "container": "0,25 л",
+    "speed": 5500.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Нектар Манго ТМ \"Баринофф\"",
+    "line": "линия 3",
+    "container": "1,0 л",
+    "speed": 3700.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Нектар Манго ТМ \"Баринофф\"",
+    "line": "линия 4",
+    "container": "0,25 л",
+    "speed": 5500.0,
+    "limit": 100000.0,
+    "action": "СИП2"
+  },
+  {
+    "name": "Нектар Манго ТМ \"Мамина Дача\"",
+    "line": "линия 3",
+    "container": "0,75 л",
+    "speed": 4600.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Нектар Морковь ТМ \"Baby Island\"",
+    "line": "линия 4",
+    "container": "0,33 л",
+    "speed": 5500.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Нектар Морковь ТМ \"Soko Grande\"",
+    "line": "линия 3",
+    "container": "0,75 л",
+    "speed": 4600.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Нектар Морковь ТМ \"Spar Kids\"",
+    "line": "линия 4",
+    "container": "0,33 л",
+    "speed": 5500.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Нектар Морковь ТМ \"Ашан Kids\"",
+    "line": "линия 4",
+    "container": "0,33 л",
+    "speed": 5500.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Нектар Морковь ТМ \"Баринофф\"",
+    "line": "линия 3",
+    "container": "1,0 л",
+    "speed": 3700.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Нектар Морковь ТМ \"Вау Мяу\"",
+    "line": "линия 4",
+    "container": "0,33 л",
+    "speed": 5500.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Нектар Морковь ТМ \"Вяу Мяу\"",
+    "line": "линия 4",
+    "container": "0,33 л",
+    "speed": 5500.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Нектар Морковь ТМ \"Для Всей Семьи\"",
+    "line": "линия 3",
+    "container": "1,0 л",
+    "speed": 4600.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Нектар Морковь ТМ \"Магнит\"",
+    "line": "линия 3",
+    "container": "1,0 л",
+    "speed": 4600.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Нектар Морковь ТМ \"Магнит\"",
+    "line": "линия 4",
+    "container": "1,0 л",
+    "speed": 3700.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Нектар Морковь ТМ \"Мамина Дача\"",
+    "line": "линия 3",
+    "container": "0,75 л",
+    "speed": 4600.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Нектар Морковь ТМ \"Миша\"",
+    "line": "линия 4",
+    "container": "0,33 л",
+    "speed": 5500.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Нектар Морковь-Яблоко-Банан ТМ \"Baby Island\"",
+    "line": "линия 4",
+    "container": "0,33 л",
+    "speed": 5500.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Нектар Морковь-Яблоко-Банан ТМ \"Spar Kids\"",
+    "line": "линия 4",
+    "container": "0,33 л",
+    "speed": 5500.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Нектар Морковь-Яблоко-Банан ТМ \"Вау Мяу\"",
+    "line": "линия 4",
+    "container": "0,33 л",
+    "speed": 5500.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Нектар Морковь-Яблоко-Банан ТМ \"Вяу-Мяу\"",
+    "line": "линия 4",
+    "container": "0,33 л",
+    "speed": 5500.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Нектар Морковь-Яблоко-Банан ТМ \"Миша\"",
+    "line": "линия 4",
+    "container": "0,33 л",
+    "speed": 5500.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Нектар Морковь-Яблоко-Банан ТМ \"Тигруля\"",
+    "line": "линия 4",
+    "container": "0,33 л",
+    "speed": 5500.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Нектар Морковь-Яблоко-Клубника ТМ \"Spar Kids\"",
+    "line": "линия 4",
+    "container": "0,33 л",
+    "speed": 5500.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Нектар Морковь-Яблоко-Клубника ТМ \"Миша\"",
+    "line": "линия 4",
+    "container": "0,33 л",
+    "speed": 5500.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Нектар Морковь-Яблоко-Клубника ТМ \"Тигруля\"",
+    "line": "линия 4",
+    "container": "0,33 л",
+    "speed": 5500.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Нектар Морковь-Яблоко-Малина ТМ \"Baby Island\"",
+    "line": "линия 4",
+    "container": "0,33 л",
+    "speed": 5500.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Нектар Морковь-Яблоко-Малина ТМ \"Ашан Kids\"",
+    "line": "линия 4",
+    "container": "0,33 л",
+    "speed": 5500.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Нектар Морковь-Яблоко-Малина ТМ \"Вау Мяу\"",
+    "line": "линия 4",
+    "container": "0,33 л",
+    "speed": 5500.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Нектар Морковь-Яблоко-Малина ТМ \"Вяу-Мяу\"",
+    "line": "линия 4",
+    "container": "0,33 л",
+    "speed": 5500.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Нектар Морковь-Яблоко-Малина ТМ \"Миша\"",
+    "line": "линия 4",
+    "container": "0,33 л",
+    "speed": 5500.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Нектар Морковь-Яблоко-Малина ТМ \"Тигруля\"",
+    "line": "линия 4",
+    "container": "0,33 л",
+    "speed": 5500.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Нектар Морковь-Яблоко-Персик ТМ \"Baby Island\"",
+    "line": "линия 4",
+    "container": "0,33 л",
+    "speed": 5500.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Нектар Морковь-Яблоко-Персик ТМ \"Ашан Kids\"",
+    "line": "линия 4",
+    "container": "0,33 л",
+    "speed": 5500.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Нектар Морковь-Яблоко-Персик ТМ \"Миша\"",
+    "line": "линия 4",
+    "container": "0,33 л",
+    "speed": 5500.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Нектар Морковь-Яблоко-Персик ТМ \"Тигруля\"",
+    "line": "линия 4",
+    "container": "0,33 л",
+    "speed": 5500.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Нектар Мультифрукт ТМ \"100% Джус\"",
+    "line": "линия 2",
+    "container": "0,25 л",
+    "speed": 6500.0,
+    "limit": 100000.0,
+    "action": "СИП2"
+  },
+  {
+    "name": "Нектар Мультифрукт ТМ \"100% Джус\"",
+    "line": "линия 4",
+    "container": "0,25 л",
+    "speed": 5500.0,
+    "limit": 100000.0,
+    "action": "СИП2"
+  },
+  {
+    "name": "Нектар Мультифрукт ТМ \"Баринофф\"",
+    "line": "линия 3",
+    "container": "1,0 л",
+    "speed": 4600.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Нектар Облепиха ТМ \"Мамина Дача\"",
+    "line": "линия 3",
+    "container": "0,75 л",
+    "speed": 4600.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Нектар Персик ТМ \"100% Джус\"",
+    "line": "линия 2",
+    "container": "0,25 л",
+    "speed": 6500.0,
+    "limit": 100000.0,
+    "action": "СИП2"
+  },
+  {
+    "name": "Нектар Персик ТМ \"100% Джус\"",
+    "line": "линия 4",
+    "container": "0,25 л",
+    "speed": 5500.0,
+    "limit": 100000.0,
+    "action": "СИП2"
+  },
+  {
+    "name": "Нектар Персик ТМ \"Баринофф\"",
+    "line": "линия 3",
+    "container": "1,0 л",
+    "speed": 4600.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Нектар Тыква ТМ \"Soko Grande\"",
+    "line": "линия 3",
+    "container": "0,75 л",
+    "speed": 4600.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Нектар Тыква ТМ \"Баринофф\"",
+    "line": "линия 3",
+    "container": "1,0 л",
+    "speed": 3700.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Нектар Тыква ТМ \"Динозаврик ДИ\"",
+    "line": "линия 4",
+    "container": "0,33 л",
+    "speed": 5500.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Нектар Тыква ТМ \"Для Всей Семьи\"",
+    "line": "линия 3",
+    "container": "1,0 л",
+    "speed": 4600.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Нектар Тыква ТМ \"Магнит\"",
+    "line": "линия 3",
+    "container": "1,0 л",
+    "speed": 4600.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Нектар Тыква ТМ \"Магнит\"",
+    "line": "линия 4",
+    "container": "1,0 л",
+    "speed": 3700.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Нектар Тыква ТМ \"Мамина Дача\"",
+    "line": "линия 3",
+    "container": "0,75 л",
+    "speed": 4600.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Нектар Тыква ТМ \"Тигруля\"",
+    "line": "линия 4",
+    "container": "0,33 л",
+    "speed": 5500.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Нектар Тыква-Апельсин ТМ \"Spar Kids\"",
+    "line": "линия 4",
+    "container": "0,33 л",
+    "speed": 5500.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Нектар Тыква-Апельсин ТМ \"Динозаврик ДИ\"",
+    "line": "линия 4",
+    "container": "0,33 л",
+    "speed": 5500.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Нектар Тыква-Апельсин ТМ \"Тигруля\"",
+    "line": "линия 4",
+    "container": "0,33 л",
+    "speed": 5500.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Нектар Тыква-Манго ТМ \"Spar Kids\"",
+    "line": "линия 4",
+    "container": "0,33 л",
+    "speed": 5500.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Нектар Тыква-Манго ТМ \"Ашан Kids\"",
+    "line": "линия 4",
+    "container": "0,33 л",
+    "speed": 5500.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Нектар Тыква-Манго ТМ \"Вау Мяу\"",
+    "line": "линия 4",
+    "container": "0,33 л",
+    "speed": 5500.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Нектар Тыква-Манго ТМ \"Вяу Мяу\"",
+    "line": "линия 4",
+    "container": "0,33 л",
+    "speed": 5500.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Нектар Тыква-Манго ТМ \"Динозаврик ДИ\"",
+    "line": "линия 4",
+    "container": "0,33 л",
+    "speed": 5500.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Нектар Тыква-Манго ТМ \"Тигруля\"",
+    "line": "линия 4",
+    "container": "0,33 л",
+    "speed": 5500.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Основа Базилик-Лимон ТМ \"Баринофф\"",
+    "line": "линия 7",
+    "container": "1,0 кг",
+    "speed": 200.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Основа Брусника ТМ \"Баринофф\"",
+    "line": "линия 7",
+    "container": "1,0 кг",
+    "speed": 200.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Основа Брусничная ТМ \"Баринофф\"",
+    "line": "линия 7",
+    "container": "1,0 кг",
+    "speed": 200.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Основа Вишневая ТМ \"Баринофф\"",
+    "line": "линия 7",
+    "container": "1,0 кг",
+    "speed": 200.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Основа Вишня ТМ \"Баринофф\"",
+    "line": "линия 7",
+    "container": "1,0 кг",
+    "speed": 200.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Основа Глийтвен ТМ \"Баринофф\"",
+    "line": "линия 7",
+    "container": "1,0 кг",
+    "speed": 200.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Основа Глинтвейн ТМ \"Баринофф\"",
+    "line": "линия 7",
+    "container": "1,0 кг",
+    "speed": 200.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Основа Зеленый Чай с Манго и Ромашкой ТМ \"Баринофф\"",
+    "line": "линия 5",
+    "container": "1,0 л",
+    "speed": 1900.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Основа Клюква ТМ \"Баринофф\"",
+    "line": "линия 7",
+    "container": "1,0 кг",
+    "speed": 200.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Основа Клюквенная ТМ \"Баринофф\"",
+    "line": "линия 7",
+    "container": "1,0 кг",
+    "speed": 200.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Основа Лимон ТМ \"Баринофф\"",
+    "line": "линия 7",
+    "container": "1,0 кг",
+    "speed": 200.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Основа Лимонная ТМ \"Баринофф\"",
+    "line": "линия 5",
+    "container": "1,0 л",
+    "speed": 1900.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Основа Малина 1,0 кг ТМ \"Баринофф\"",
+    "line": "",
+    "container": "1,0 кг",
+    "speed": null,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Основа Малиновая ТМ \"Баринофф\"",
+    "line": "линия 7",
+    "container": "1,0 кг",
+    "speed": 200.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Основа Мохито ТМ \"Баринофф\"",
+    "line": "линия 7",
+    "container": "1,0 кг",
+    "speed": 200.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Основа Мохито-Клубника ТМ \"Баринофф\"",
+    "line": "линия 7",
+    "container": "1,0 кг",
+    "speed": 200.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Основа Облепиха ТМ \"Баринофф\"",
+    "line": "линия 7",
+    "container": "1,0 кг",
+    "speed": 200.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Основа Облепиховая ТМ \"Баринофф\"",
+    "line": "линия 7",
+    "container": "1,0 кг",
+    "speed": 200.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Основа Сангрия ТМ \"Баринофф\"",
+    "line": "линия 7",
+    "container": "1,0 кг",
+    "speed": 200.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Основа Черная Смородина ТМ \"Баринофф\"",
+    "line": "линия 7",
+    "container": "1,0 кг",
+    "speed": 200.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Основа Черносмородиновая ТМ \"Баринофф\"",
+    "line": "линия 7",
+    "container": "1,0 кг",
+    "speed": 200.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Основа Черный Чай ТМ \"Баринофф\"",
+    "line": "линия 5",
+    "container": "1,0 л",
+    "speed": 1900.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Основа Черный Чай-Малина ТМ \"Баринофф\"",
+    "line": "линия 5",
+    "container": "1,0 л",
+    "speed": 1900.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Айриш Крим ТМ \"Баринофф\"",
+    "line": "линия 5",
+    "container": "0,25 л",
+    "speed": 2800.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Айриш крим ПЭТ ТМ \"Баринофф\"",
+    "line": "линия 10",
+    "container": "1,0 л",
+    "speed": 450.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Амаретто ПЭТ ТМ \"Баринофф\"",
+    "line": "линия 10",
+    "container": "1,0 л",
+    "speed": 450.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Амаретто ТМ \"RIOBA\"",
+    "line": "линия 5",
+    "container": "1,0 л",
+    "speed": 1900.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Амаретто ТМ \"Баринофф\"",
+    "line": "линия 5",
+    "container": "0,25 л",
+    "speed": 2800.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Ананас ТМ \"Баринофф\"",
+    "line": "линия 5",
+    "container": "1,0 л",
+    "speed": 1900.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Апельсин ПЭТ ТМ \"Баринофф\"",
+    "line": "линия 10",
+    "container": "1,0 л",
+    "speed": 450.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Апельсин ТМ \"Баринофф\"",
+    "line": "линия 5",
+    "container": "0,25 л",
+    "speed": 2800.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Арбуз ПЭТ ТМ \"Баринофф\"",
+    "line": "линия 10",
+    "container": "1,0 л",
+    "speed": 450.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Арбуз ТМ \"Баринофф Gold Label\"",
+    "line": "линия 5",
+    "container": "0,75 л",
+    "speed": 3700.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Арбуз ТМ \"Баринофф\"",
+    "line": "линия 5",
+    "container": "1,0 л",
+    "speed": 1900.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Бабл Гам ТМ \"Баринофф\"",
+    "line": "линия 5",
+    "container": "0,25 л",
+    "speed": 2800.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Бабл гам ТМ \"Баринофф Gold Label\"",
+    "line": "линия 5",
+    "container": "0,75 л",
+    "speed": 3700.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Банан ТМ \"Баринофф Gold Label\"",
+    "line": "линия 5",
+    "container": "0,75 л",
+    "speed": 3700.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Бейлиз ПЭТ ТМ \"Баринофф\"",
+    "line": "линия 10",
+    "container": "1,0 л",
+    "speed": 450.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Бейлиз ТМ \"RIOBA\"",
+    "line": "линия 5",
+    "container": "1,0 л",
+    "speed": 1900.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Бейлиз ТМ \"Баринофф Gold Label\"",
+    "line": "линия 5",
+    "container": "0,75 л",
+    "speed": 3700.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Бейлиз ТМ \"Баринофф\"",
+    "line": "линия 5",
+    "container": "0,25 л",
+    "speed": 2800.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Белый Шоколад ТМ \"Баринофф\"",
+    "line": "линия 5",
+    "container": "1,0 л",
+    "speed": 1900.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Брауни ТМ \"Баринофф\"",
+    "line": "линия 5",
+    "container": "0,25 л",
+    "speed": 2800.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Бузина ТМ \"Баринофф\"",
+    "line": "линия 5",
+    "container": "1,0 л",
+    "speed": 1900.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Ваниль ПЭТ ТМ \"Баринофф\"",
+    "line": "линия 10",
+    "container": "1,0 л",
+    "speed": 450.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Ваниль ТМ \"RIOBA\"",
+    "line": "линия 5",
+    "container": "0,25 л",
+    "speed": 2800.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Ваниль ТМ \"Баринофф Gold Label\"",
+    "line": "линия 5",
+    "container": "0,75 л",
+    "speed": 3700.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Ваниль ТМ \"Баринофф\"",
+    "line": "линия 5",
+    "container": "0,25 л",
+    "speed": 2800.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Вишня ТМ \"RIOBA\"",
+    "line": "линия 5",
+    "container": "1,0 л",
+    "speed": 1900.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Вишня ТМ \"Баринофф Gold Label\"",
+    "line": "линия 5",
+    "container": "0,75 л",
+    "speed": 3700.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Вишня ТМ \"Баринофф\"",
+    "line": "линия 5",
+    "container": "0,25 л",
+    "speed": 2800.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Голубой Кюрасао ПЭТ ТМ \"Баринофф\"",
+    "line": "линия 10",
+    "container": "1,0 л",
+    "speed": 450.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Голубой Кюрасао ТМ \"RIOBA\"",
+    "line": "линия 5",
+    "container": "1,0 л",
+    "speed": 1900.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Голубой Кюрасао ТМ \"Баринофф Gold Label\"",
+    "line": "линия 5",
+    "container": "0,75 л",
+    "speed": 3700.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Голубой Кюрасао ТМ \"Баринофф\"",
+    "line": "линия 5",
+    "container": "0,25 л",
+    "speed": 2800.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Гранат ТМ \"Баринофф Gold Label\"",
+    "line": "линия 5",
+    "container": "0,75 л",
+    "speed": 3700.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Грейпфрут ТМ \"Баринофф\"",
+    "line": "линия 5",
+    "container": "1,0 л",
+    "speed": 1900.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Гренадин ПЭТ ТМ \"Баринофф\"",
+    "line": "линия 10",
+    "container": "1,0 л",
+    "speed": 450.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Гренадин ТМ \"RIOBA\"",
+    "line": "линия 5",
+    "container": "1,0 л",
+    "speed": 1900.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Гренадин ТМ \"Ашан\"",
+    "line": "линия 5",
+    "container": "1,0 л",
+    "speed": 1900.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Гренадин ТМ \"Баринофф Gold Label\"",
+    "line": "линия 5",
+    "container": "0,75 л",
+    "speed": 3700.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Гренадин ТМ \"Баринофф\"",
+    "line": "линия 5",
+    "container": "0,25 л",
+    "speed": 2800.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Груша ТМ \"Баринофф Gold Label\"",
+    "line": "линия 5",
+    "container": "0,75 л",
+    "speed": 3700.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Груша ТМ \"Баринофф\"",
+    "line": "линия 5",
+    "container": "1,0 л",
+    "speed": 1900.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Дыня ПЭТ ТМ \"Баринофф\"",
+    "line": "линия 10",
+    "container": "1,0 л",
+    "speed": 450.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Дыня ТМ \"RIOBA\"",
+    "line": "линия 5",
+    "container": "1,0 л",
+    "speed": 1900.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Дыня ТМ \"Баринофф\"",
+    "line": "линия 5",
+    "container": "1,0 л",
+    "speed": 1900.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Ежевика ТМ \"Баринофф\"",
+    "line": "линия 5",
+    "container": "1,0 л",
+    "speed": 1900.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Жареная Карамель ТМ \"Баринофф\"",
+    "line": "линия 5",
+    "container": "1,0 л",
+    "speed": 1900.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Жаренная Карамель ТМ \"Баринофф\"",
+    "line": "линия 5",
+    "container": "1,0 л",
+    "speed": 1900.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Жаренный Фундук ТМ \"Баринофф\"",
+    "line": "линия 5",
+    "container": "1,0 л",
+    "speed": 1900.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Жареный Миндаль ТМ \"Баринофф\"",
+    "line": "линия 5",
+    "container": "1,0 л",
+    "speed": 1900.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Желтый Банан ПЭТ ТМ \"Баринофф\"",
+    "line": "линия 10",
+    "container": "1,0 л",
+    "speed": 450.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Желтый Банан ТМ \"Баринофф\"",
+    "line": "линия 5",
+    "container": "1,0 л",
+    "speed": 1900.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Зеленный Банан ТМ \"Баринофф\"",
+    "line": "линия 5",
+    "container": "1,0 л",
+    "speed": 1900.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Зеленый Банан ТМ \"Баринофф\"",
+    "line": "линия 5",
+    "container": "1,0 л",
+    "speed": 1900.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Земляника ТМ \"Баринофф\"",
+    "line": "линия 5",
+    "container": "1,0 л",
+    "speed": 1900.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Изабелла ТМ \"Баринофф\"",
+    "line": "линия 5",
+    "container": "1,0 л",
+    "speed": 1900.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Имбирный Пряник ТМ \"Баринофф\"",
+    "line": "линия 5",
+    "container": "1,0 л",
+    "speed": 1900.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Имбирный пряник ТМ \"Баринофф Gold Label\"",
+    "line": "линия 5",
+    "container": "0,75 л",
+    "speed": 3700.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Имбирный пряник ТМ \"Баринофф\"",
+    "line": "линия 5",
+    "container": "0,25 л",
+    "speed": 2800.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Имбирь ТМ \"Баринофф\"",
+    "line": "линия 5",
+    "container": "1,0 л",
+    "speed": 1900.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Карамель ПЭТ ТМ \"Баринофф\"",
+    "line": "линия 10",
+    "container": "1,0 л",
+    "speed": 450.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Карамель ТМ \"RIOBA\"",
+    "line": "линия 5",
+    "container": "1,0 л",
+    "speed": 1900.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Карамель ТМ \"Баринофф Gold Label\"",
+    "line": "линия 5",
+    "container": "0,75 л",
+    "speed": 3700.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Карамель ТМ \"Баринофф\"",
+    "line": "линия 5",
+    "container": "1,0 л",
+    "speed": 1900.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Каштан ТМ \"Баринофф\"",
+    "line": "линия 5",
+    "container": "1,0 л",
+    "speed": 1900.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Кедровый Орех ТМ \"Баринофф\"",
+    "line": "линия 5",
+    "container": "1,0 л",
+    "speed": 1900.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Киви ТМ \"Баринофф\"",
+    "line": "линия 5",
+    "container": "1,0 л",
+    "speed": 1900.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Кленовый ТМ \"RIOBA\"",
+    "line": "линия 5",
+    "container": "1,0 л",
+    "speed": 1900.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Кленовый ТМ \"Баринофф Gold Label\"",
+    "line": "линия 5",
+    "container": "0,75 л",
+    "speed": 3700.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Кленовый ТМ \"Баринофф\"",
+    "line": "линия 5",
+    "container": "1,0 л",
+    "speed": 1900.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Клубника ПЭТ ТМ \"Баринофф\"",
+    "line": "линия 10",
+    "container": "1,0 л",
+    "speed": 450.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Клубника ТМ \"RIOBA\"",
+    "line": "линия 5",
+    "container": "1,0 л",
+    "speed": 1900.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Клубника ТМ \"Баринофф Gold Label\"",
+    "line": "линия 5",
+    "container": "0,75 л",
+    "speed": 3700.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Клубника ТМ \"Баринофф\"",
+    "line": "линия 5",
+    "container": "1,0 л",
+    "speed": 1900.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Клюква ТМ \"Баринофф\"",
+    "line": "линия 5",
+    "container": "1,0 л",
+    "speed": 1900.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Кокос ПЭТ ТМ \"Баринофф\"",
+    "line": "линия 10",
+    "container": "1,0 л",
+    "speed": 450.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Кокос ТМ \"RIOBA\"",
+    "line": "линия 5",
+    "container": "1,0 л",
+    "speed": 1900.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Кокос ТМ \"Баринофф Gold Label\"",
+    "line": "линия 5",
+    "container": "0,75 л",
+    "speed": 3700.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Кокос ТМ \"Баринофф\"",
+    "line": "линия 5",
+    "container": "1,0 л",
+    "speed": 1900.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Кола ТМ \"Баринофф\"",
+    "line": "линия 5",
+    "container": "1,0 л",
+    "speed": 1900.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Корица ТМ \"Баринофф\"",
+    "line": "линия 5",
+    "container": "1,0 л",
+    "speed": 1900.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Кофе ТМ \"Баринофф\"",
+    "line": "линия 5",
+    "container": "1,0 л",
+    "speed": 1900.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Красный Апельсин ТМ \"Баринофф\"",
+    "line": "линия 5",
+    "container": "1,0 л",
+    "speed": 1900.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Лаванда ТМ \"RIOBA\"",
+    "line": "линия 5",
+    "container": "1,0 л",
+    "speed": 1900.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Лаванда ТМ \"Баринофф Gold Label\"",
+    "line": "линия 5",
+    "container": "0,75 л",
+    "speed": 3700.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Лаванда ТМ \"Баринофф\"",
+    "line": "линия 5",
+    "container": "1,0 л",
+    "speed": 1900.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Лайм ПЭТ ТМ \"Баринофф\"",
+    "line": "линия 10",
+    "container": "1,0 л",
+    "speed": 450.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Лайм ТМ \"RIOBA\"",
+    "line": "линия 5",
+    "container": "1,0 л",
+    "speed": 1900.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Лайм ТМ \"Баринофф\"",
+    "line": "линия 5",
+    "container": "1,0 л",
+    "speed": 1900.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Лемонграсс ТМ \"Баринофф\"",
+    "line": "линия 5",
+    "container": "1,0 л",
+    "speed": 1900.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Лесная Ягода ТМ \"Баринофф\"",
+    "line": "линия 5",
+    "container": "1,0 л",
+    "speed": 1900.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Лесной 0рех ТМ \"Баринофф\"",
+    "line": "линия 5",
+    "container": "0,25 л",
+    "speed": 2800.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Лесной Орех ТМ \"RIOBA\"",
+    "line": "линия 5",
+    "container": "0,25 л",
+    "speed": 2800.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Лесной Орех ТМ \"Ашан\"",
+    "line": "линия 5",
+    "container": "0,25 л",
+    "speed": 2800.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Лесной Орех ТМ \"Баринофф\"",
+    "line": "линия 5",
+    "container": "1,0 л",
+    "speed": 1900.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Лесной орех ТМ \"Баринофф Gold Label\"",
+    "line": "линия 5",
+    "container": "0,75 л",
+    "speed": 3700.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Лесные Ягоды ПЭТ ТМ \"Баринофф\"",
+    "line": "линия 10",
+    "container": "1,0 л",
+    "speed": 450.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Лимон ПЭТ ТМ \"Баринофф\"",
+    "line": "линия 10",
+    "container": "1,0 л",
+    "speed": 450.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Лимон ТМ \"Баринофф\"",
+    "line": "линия 5",
+    "container": "1,0 л",
+    "speed": 1900.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Макадамия ТМ \"Баринофф\"",
+    "line": "линия 5",
+    "container": "1,0 л",
+    "speed": 1900.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Малина ПЭТ ТМ \"Баринофф\"",
+    "line": "линия 10",
+    "container": "1,0 л",
+    "speed": 450.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Малина ТМ \"Баринофф Gold Label\"",
+    "line": "линия 5",
+    "container": "0,75 л",
+    "speed": 3700.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Малина ТМ \"Баринофы\"",
+    "line": "линия 5",
+    "container": "1,0 л",
+    "speed": 1900.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Манго ПЭТ ТМ \"Баринофф\"",
+    "line": "линия 10",
+    "container": "1,0 л",
+    "speed": 450.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Манго ТМ \"Баринофф Gold Label\"",
+    "line": "линия 5",
+    "container": "0,75 л",
+    "speed": 3700.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Манго ТМ \"Баринофф\"",
+    "line": "линия 5",
+    "container": "1,0 л",
+    "speed": 1900.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Мандарин ТМ \"Баринофф\"",
+    "line": "линия 5",
+    "container": "1,0 л",
+    "speed": 1900.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Маракуйя ПЭТ ТМ \"Баринофф\"",
+    "line": "линия 10",
+    "container": "1,0 л",
+    "speed": 450.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Маракуйя ТМ \"Баринофф Gold Label\"",
+    "line": "линия 5",
+    "container": "0,75 л",
+    "speed": 3700.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Маракуйя ТМ \"Баринофф\"",
+    "line": "линия 5",
+    "container": "1,0 л",
+    "speed": 1900.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Миндаль ПЭТ ТМ \"Баринофф\"",
+    "line": "линия 10",
+    "container": "1,0 л",
+    "speed": 450.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Миндаль ТМ \"Баринофф Gold Label\"",
+    "line": "линия 5",
+    "container": "0,75 л",
+    "speed": 3700.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Миндаль ТМ \"Баринофф\"",
+    "line": "линия 5",
+    "container": "1,0 л",
+    "speed": 1900.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Мохито ПЭТ ТМ \"Баринофф\"",
+    "line": "линия 10",
+    "container": "1,0 л",
+    "speed": 450.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Мохито ТМ \"Баринофф\"",
+    "line": "линия 5",
+    "container": "1,0 л",
+    "speed": 1900.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Мята ПЭТ ТМ \"Баринофф\"",
+    "line": "линия 10",
+    "container": "1,0 л",
+    "speed": 450.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Мята ТМ \"Баринофф Gold Label\"",
+    "line": "линия 5",
+    "container": "0,75 л",
+    "speed": 3700.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Мята ТМ \"Баринофф\"",
+    "line": "линия 5",
+    "container": "1,0 л",
+    "speed": 1900.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Облепиха ТМ \"Баринофф\"",
+    "line": "линия 5",
+    "container": "1,0 л",
+    "speed": 1900.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Огурец ТМ \"Баринофф\"",
+    "line": "линия 5",
+    "container": "1,0 л",
+    "speed": 1900.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Персик ТМ \"Баринофф\"",
+    "line": "линия 5",
+    "container": "1,0 л",
+    "speed": 1900.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Попкорн ТМ \"Баринофф Gold Label\"",
+    "line": "линия 5",
+    "container": "0,75 л",
+    "speed": 3700.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Попкорн ТМ \"Баринофф\"",
+    "line": "линия 5",
+    "container": "1,0 л",
+    "speed": 1900.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Пралине ТМ \"Баринофф\"",
+    "line": "линия 5",
+    "container": "1,0 л",
+    "speed": 1900.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Ром ТМ \"Баринофф\"",
+    "line": "линия 5",
+    "container": "1,0 л",
+    "speed": 1900.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Соленая Карамель ПЭТ ТМ \"Баринофф\"",
+    "line": "линия 10",
+    "container": "1,0 л",
+    "speed": 450.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Соленая Карамель ТМ \"RIOBA\"",
+    "line": "линия 5",
+    "container": "0,25 л",
+    "speed": 2800.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Соленая Карамель ТМ \"Баринофф Gold Label\"",
+    "line": "линия 5",
+    "container": "0,75 л",
+    "speed": 3700.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Соленая Карамель ТМ \"Баринофф\"",
+    "line": "линия 5",
+    "container": "1,0 л",
+    "speed": 1900.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Соленая Макадамия ТМ \"Баринофф\"",
+    "line": "линия 5",
+    "container": "1,0 л",
+    "speed": 1900.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Тархун ПЭТ ТМ \"Баринофф\"",
+    "line": "линия 10",
+    "container": "1,0 л",
+    "speed": 450.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Тархун ТМ \"Баринофф\"",
+    "line": "линия 5",
+    "container": "1,0 л",
+    "speed": 1900.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Тирамису ТМ \"Баринофф Gold Label\"",
+    "line": "линия 5",
+    "container": "0,75 л",
+    "speed": 3700.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Тиримису ТМ \"Баринофф\"",
+    "line": "линия 5",
+    "container": "1,0 л",
+    "speed": 1900.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Топинамбур ТМ \"Баринофф\"",
+    "line": "линия 5",
+    "container": "1,0 л",
+    "speed": 1900.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Топинамбура ТМ \"Баринофф\"",
+    "line": "линия 5",
+    "container": "1,0 л",
+    "speed": 1900.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Тоффи ПЭТ ТМ \"Баринофф\"",
+    "line": "линия 10",
+    "container": "1,0 л",
+    "speed": 450.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Тоффи ТМ \"Баринофф Gold Label\"",
+    "line": "линия 5",
+    "container": "0,75 л",
+    "speed": 3700.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Тоффи ТМ \"Баринофф\"",
+    "line": "линия 5",
+    "container": "1,0 л",
+    "speed": 1900.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Тросниковый ТМ \"Баринофф Gold Label\"",
+    "line": "линия 5",
+    "container": "0,75 л",
+    "speed": 3700.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Фисташка ПЭТ ТМ \"Баринофф\"",
+    "line": "линия 10",
+    "container": "1,0 л",
+    "speed": 450.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Фисташка ТМ \"Баринофф Gold Label\"",
+    "line": "линия 5",
+    "container": "0,75 л",
+    "speed": 3700.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Фисташка ТМ \"Баринофф\"",
+    "line": "линия 5",
+    "container": "1,0 л",
+    "speed": 1900.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Черная Смородина ПЭТ ТМ \"Баринофф\"",
+    "line": "линия 10",
+    "container": "1,0 л",
+    "speed": 450.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Черная Смородина ТМ \"Баринофф Gold Label\"",
+    "line": "линия 5",
+    "container": "0,75 л",
+    "speed": 3700.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Шоколад ПЭТ ТМ \"Баринофф\"",
+    "line": "линия 10",
+    "container": "1,0 л",
+    "speed": 450.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Шоколад ТМ \"Баринофф Gold Label\"",
+    "line": "линия 5",
+    "container": "0,75 л",
+    "speed": 3700.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Шоколад ТМ \"Баринофф\"",
+    "line": "линия 5",
+    "container": "1,0 л",
+    "speed": 1900.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Шоколадное Печенье ТМ \"Баринофф\"",
+    "line": "линия 5",
+    "container": "1,0 л",
+    "speed": 1900.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Шоколадный Батончик ТМ \"Баринофф\"",
+    "line": "линия 5",
+    "container": "1,0 л",
+    "speed": 1900.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сироп Яблоко ТМ \"Баринофф\"",
+    "line": "линия 5",
+    "container": "1,0 л",
+    "speed": 1900.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сок Апельсин ТМ \"100% Джус\"",
+    "line": "линия 4",
+    "container": "0,25 л",
+    "speed": 5500.0,
+    "limit": 100000.0,
+    "action": "СИП2"
+  },
+  {
+    "name": "Сок Апельсин ТМ \"Spar\"",
+    "line": "линия 4",
+    "container": "0,25 л",
+    "speed": 5500.0,
+    "limit": 100000.0,
+    "action": "СИП2"
+  },
+  {
+    "name": "Сок Апельсин ТМ \"Баринофф\"",
+    "line": "линия 3",
+    "container": "1,0 л",
+    "speed": 4600.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сок Апельсин ТМ \"Баринофф\"",
+    "line": "линия 4",
+    "container": "0,25 л",
+    "speed": 5500.0,
+    "limit": 100000.0,
+    "action": "СИП2"
+  },
+  {
+    "name": "Сок Гранат ТМ \"100% Джус\"",
+    "line": "линия 2",
+    "container": "0,25 л",
+    "speed": 6500.0,
+    "limit": 100000.0,
+    "action": "СИП2"
+  },
+  {
+    "name": "Сок Гранат ТМ \"100% Джус\"",
+    "line": "линия 4",
+    "container": "0,25 л",
+    "speed": 5500.0,
+    "limit": 100000.0,
+    "action": "СИП2"
+  },
+  {
+    "name": "Сок Гранат ТМ \"Баринофф\"",
+    "line": "линия 3",
+    "container": "1,0 л",
+    "speed": 4600.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сок Гранат ТМ \"Баринофф\"",
+    "line": "линия 4",
+    "container": "0,25 л",
+    "speed": 5500.0,
+    "limit": 100000.0,
+    "action": "СИП2"
+  },
+  {
+    "name": "Сок Груша ТМ \"100% Джус\"",
+    "line": "линия 2",
+    "container": "0,25 л",
+    "speed": 6500.0,
+    "limit": 100000.0,
+    "action": "СИП2"
+  },
+  {
+    "name": "Сок Груша ТМ \"100% Джус\"",
+    "line": "линия 4",
+    "container": "0,25 л",
+    "speed": 5500.0,
+    "limit": 100000.0,
+    "action": "СИП2"
+  },
+  {
+    "name": "Сок Груша ТМ \"Баринофф\"",
+    "line": "линия 3",
+    "container": "1,0 л",
+    "speed": 4600.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сок Морковь ТМ \"Полезный Сок\"",
+    "line": "линия 1",
+    "container": "1,8 л",
+    "speed": 1100.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сок Томат ТМ \"100% Джус\"",
+    "line": "линия 2",
+    "container": "0,25 л",
+    "speed": 6500.0,
+    "limit": 100000.0,
+    "action": "СИП2"
+  },
+  {
+    "name": "Сок Томат ТМ \"OLIFE\"",
+    "line": "линия 3",
+    "container": "1,0 л",
+    "speed": 4600.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сок Томат ТМ \"OLIFE\"",
+    "line": "линия 4",
+    "container": "1,0 л",
+    "speed": 3700.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сок Томат ТМ \"Spar\"",
+    "line": "линия 4",
+    "container": "0,25 л",
+    "speed": 5500.0,
+    "limit": 100000.0,
+    "action": "СИП2"
+  },
+  {
+    "name": "Сок Томат ТМ \"Баринофф\"",
+    "line": "линия 3",
+    "container": "1,0 л",
+    "speed": 3700.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сок Томат ТМ \"Баринофф\"",
+    "line": "линия 4",
+    "container": "0,25 л",
+    "speed": 5500.0,
+    "limit": 100000.0,
+    "action": "СИП2"
+  },
+  {
+    "name": "Сок Томат ТМ \"Мамина Дача\"",
+    "line": "линия 3",
+    "container": "0,75 л",
+    "speed": 4600.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сок Томат ТМ \"Полезный Сок\"",
+    "line": "линия 1",
+    "container": "1,8 л",
+    "speed": 1100.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сок Тыква ТМ \"Полезный Сок\"",
+    "line": "линия 1",
+    "container": "1,8 л",
+    "speed": 1100.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сок Яблоко ТМ \"100% Джус\"",
+    "line": "линия 2",
+    "container": "0,25 л",
+    "speed": 6500.0,
+    "limit": 100000.0,
+    "action": "СИП2"
+  },
+  {
+    "name": "Сок Яблоко ТМ \"100% Джус\"",
+    "line": "линия 4",
+    "container": "0,25 л",
+    "speed": 5500.0,
+    "limit": 100000.0,
+    "action": "СИП2"
+  },
+  {
+    "name": "Сок Яблоко ТМ \"Spar\"",
+    "line": "линия 4",
+    "container": "0,25 л",
+    "speed": 5500.0,
+    "limit": 100000.0,
+    "action": "СИП2"
+  },
+  {
+    "name": "Сок Яблоко ТМ \"Баринофф\"",
+    "line": "линия 3",
+    "container": "1,0 л",
+    "speed": 4600.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сок Яблоко ТМ \"Баринофф\"",
+    "line": "линия 4",
+    "container": "0,25 л",
+    "speed": 5500.0,
+    "limit": 100000.0,
+    "action": "СИП2"
+  },
+  {
+    "name": "Сок Яблоко ТМ \"Мамина Дача\"",
+    "line": "линия 3",
+    "container": "0,75 л",
+    "speed": 4600.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Сок Яблоко ТМ \"Полезный Сок\"",
+    "line": "линия 1",
+    "container": "1,8 л",
+    "speed": 1100.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Соус Додо",
+    "line": "линия 8",
+    "container": "10,0 кг",
+    "speed": 210.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Топпинг Бабл Гам ТМ \"Баринофф\"",
+    "line": "линия 7",
+    "container": "1,0 кг",
+    "speed": 200.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Топпинг Банан ТМ \"Баринофф\"",
+    "line": "линия 7",
+    "container": "1,0 кг",
+    "speed": 200.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Топпинг Белый Шоколад ТМ \"Баринофф\"",
+    "line": "линия 7",
+    "container": "1,0 кг",
+    "speed": 200.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Топпинг Ваниль ТМ \"Баринофф\"",
+    "line": "линия 7",
+    "container": "1,0 кг",
+    "speed": 200.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Топпинг Вишня ТМ \"Баринофф\"",
+    "line": "линия 7",
+    "container": "1,0 кг",
+    "speed": 200.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Топпинг Голубой Кюрасао ТМ \"Баринофф\"",
+    "line": "линия 7",
+    "container": "1,0 кг",
+    "speed": 200.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Топпинг Карамель ТМ \"Баринофф\"",
+    "line": "линия 7",
+    "container": "1,0 кг",
+    "speed": 200.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Топпинг Киви ТМ \"Баринофф\"",
+    "line": "линия 7",
+    "container": "1,0 кг",
+    "speed": 200.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Топпинг Кленовый Сироп ТМ \"Баринофф\"",
+    "line": "линия 7",
+    "container": "1,0 кг",
+    "speed": 200.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Топпинг Кленовый ТМ \"Баринофф\"",
+    "line": "линия 7",
+    "container": "1,0 кг",
+    "speed": 200.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Топпинг Клубника ТМ \"Баринофф\"",
+    "line": "линия 7",
+    "container": "1,0 кг",
+    "speed": 200.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Топпинг Кокос ТМ \"Баринофф\"",
+    "line": "линия 7",
+    "container": "1,0 кг",
+    "speed": 200.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Топпинг Лесной Орех ТМ \"Баринофф\"",
+    "line": "линия 7",
+    "container": "1,0 кг",
+    "speed": 200.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Топпинг Лесные Ягоды ТМ \"Баринофф\"",
+    "line": "линия 7",
+    "container": "1,0 кг",
+    "speed": 200.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Топпинг Малина ТМ \"Баринофф\"",
+    "line": "линия 7",
+    "container": "1,0 кг",
+    "speed": 200.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Топпинг Манго ТМ \"Баринофф\"",
+    "line": "линия 7",
+    "container": "1,0 кг",
+    "speed": 200.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Топпинг Маракуйя ТМ \"Баринофф\"",
+    "line": "линия 7",
+    "container": "1,0 кг",
+    "speed": 200.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Топпинг Молочный Шоколад ТМ \"Баринофф\"",
+    "line": "линия 7",
+    "container": "1,0 кг",
+    "speed": 200.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Топпинг Мята ТМ \"Баринофф\"",
+    "line": "линия 7",
+    "container": "1,0 кг",
+    "speed": 200.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Топпинг Персик ТМ \"Баринофф\"",
+    "line": "линия 7",
+    "container": "1,0 кг",
+    "speed": 200.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Топпинг Соленая Карамель ТМ \"Баринофф\"",
+    "line": "линия 7",
+    "container": "1,0 кг",
+    "speed": 200.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Топпинг Тиримису ТМ \"Баринофф\"",
+    "line": "линия 7",
+    "container": "1,0 кг",
+    "speed": 200.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Топпинг Фисташки ТМ \"Баринофф\"",
+    "line": "линия 7",
+    "container": "1,0 кг",
+    "speed": 200.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Топпинг Халва ТМ \"Баринофф\"",
+    "line": "линия 7",
+    "container": "1,0 кг",
+    "speed": 200.0,
+    "limit": null,
+    "action": ""
+  },
+  {
+    "name": "Топпинг Шоколад ТМ \"Баринофф\"",
+    "line": "линия 7",
+    "container": "1,0 кг",
+    "speed": 200.0,
+    "limit": null,
+    "action": ""
+  }
+]

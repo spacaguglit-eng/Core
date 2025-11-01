@@ -1,0 +1,12 @@
+{
+  "$schema": "planner.line_dependencies.v1",
+  "saved_at": "2025-10-27T12:05:02",
+  "dependencies": [
+    {
+      "from": "Линия 3",
+      "to": "Линия 5",
+      "gap_minutes": 300,
+      "description": ""
+    }
+  ]
+}

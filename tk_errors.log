@@ -1,0 +1,1170 @@
+Traceback (most recent call last):
+  File "c:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\json_import_tab.py", line 193, in _open_json
+    self._render_mapping()
+    ~~~~~~~~~~~~~~~~~~~~^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\json_import_tab.py", line 148, in _render_mapping
+    self._update_import_state()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\json_import_tab.py", line 208, in _update_import_state
+    enable = bool(self._rows) and bool(self.ent_block.get() or "").strip()
+                                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'bool' object has no attribute 'strip'
+Traceback (most recent call last):
+  File "c:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\json_import_tab.py", line 100, in <lambda>
+    self.cmb_kind.bind("<<ComboboxSelected>>", lambda e: self._render_mapping())
+                                                         ~~~~~~~~~~~~~~~~~~~~^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\json_import_tab.py", line 148, in _render_mapping
+    self._update_import_state()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\json_import_tab.py", line 208, in _update_import_state
+    enable = bool(self._rows) and bool(self.ent_block.get() or "").strip()
+                                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'bool' object has no attribute 'strip'
+Traceback (most recent call last):
+  File "c:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\json_import_tab.py", line 193, in _open_json
+    self._render_mapping()
+    ~~~~~~~~~~~~~~~~~~~~^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\json_import_tab.py", line 148, in _render_mapping
+    self._update_import_state()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\json_import_tab.py", line 208, in _update_import_state
+    enable = bool(self._rows) and bool(self.ent_block.get() or "").strip()
+                                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'bool' object has no attribute 'strip'
+Traceback (most recent call last):
+  File "c:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\planning_tab.py", line 836, in _run_parse
+    t2,f2,b2 = _extract_type_flavor_brand(name_src, r.get("volume",""))
+               ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\planning_tab.py", line 357, in _extract_type_flavor_brand
+    raw_flv = (m.group(2) or (m.group(3) if m else "") or (m.group(4) if m else "")).strip()
+               ^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'group'
+Traceback (most recent call last):
+  File "c:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\schedule_tab.py", line 1070, in export_shifts_12h_xlsx
+    from export_shifts_mockup import export_shifts_mockup
+ImportError: cannot import name 'export_shifts_mockup' from 'export_shifts_mockup' (c:\Users\bglushuk\Desktop\Prog begin\export_shifts_mockup.py)
+Traceback (most recent call last):
+  File "c:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\schedule_tab.py", line 1070, in export_shifts_12h_xlsx
+    from export_shifts_mockup import export_shifts_mockup
+ImportError: cannot import name 'export_shifts_mockup' from 'export_shifts_mockup' (c:\Users\bglushuk\Desktop\Prog begin\export_shifts_mockup.py)
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\planning_tab.py", line 1110, in _run_parse
+    t2,f2,b2 = _extract_type_flavor_brand(name_src, r.get("volume",""))
+               ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\planning_tab.py", line 416, in _extract_type_flavor_brand
+    raw_flv = (m.group(2) or (m.group(3) if m else "") or (m.group(4) if m else "")).strip()
+               ^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'group'
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\planning_tab.py", line 1110, in _run_parse
+    t2,f2,b2 = _extract_type_flavor_brand(name_src, r.get("volume",""))
+               ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\planning_tab.py", line 416, in _extract_type_flavor_brand
+    raw_flv = (m.group(2) or (m.group(3) if m else "") or (m.group(4) if m else "")).strip()
+               ^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'group'
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\schedule_tab.py", line 2266, in show_logs
+    self.refresh_logs()
+    ~~~~~~~~~~~~~~~~~^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\schedule_tab.py", line 2311, in refresh_logs
+    self.log_text.insert(tk.END, f"  • {dep.get('from', '—')} → {dep.get('to', '—')} (+{dep.get('gap_minutes', 0)} мин)\n")
+                                        ^^^^^^^
+AttributeError: 'str' object has no attribute 'get'
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\schedule_tab.py", line 2229, in on_close
+    self.log_window.destroy()
+    ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'destroy'
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\schedule_tab.py", line 2229, in on_close
+    self.log_window.destroy()
+    ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'destroy'
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\schedule_tab.py", line 2229, in on_close
+    self.log_window.destroy()
+    ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'destroy'
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\schedule_tab.py", line 2229, in on_close
+    self.log_window.destroy()
+    ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'destroy'
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\schedule_tab.py", line 2229, in on_close
+    self.log_window.destroy()
+    ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'destroy'
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\schedule_tab.py", line 2266, in show_logs
+    self.refresh_logs()
+    ~~~~~~~~~~~~~~~~~^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\schedule_tab.py", line 2311, in refresh_logs
+    self.log_text.insert(tk.END, f"  • {dep.get('from', '—')} → {dep.get('to', '—')} (+{dep.get('gap_minutes', 0)} мин)\n")
+                                        ^^^^^^^
+AttributeError: 'str' object has no attribute 'get'
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\schedule_tab.py", line 2229, in on_close
+    self.log_window.destroy()
+    ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'destroy'
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\schedule_tab.py", line 2229, in on_close
+    self.log_window.destroy()
+    ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'destroy'
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\schedule_tab.py", line 2361, in show_logs_window
+    refresh_logs()
+    ~~~~~~~~~~~~^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\schedule_tab.py", line 2288, in refresh_logs
+    log_text.insert(tk.END, f"  • {dep.get('from', '—')} → {dep.get('to', '—')} (+{dep.get('gap_minutes', 0)} мин)\n")
+                                   ^^^^^^^
+AttributeError: 'str' object has no attribute 'get'
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\schedule_tab.py", line 2361, in show_logs_window
+    refresh_logs()
+    ~~~~~~~~~~~~^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\schedule_tab.py", line 2288, in refresh_logs
+    log_text.insert(tk.END, f"  • {dep.get('from', '—')} → {dep.get('to', '—')} (+{dep.get('gap_minutes', 0)} мин)\n")
+                                   ^^^^^^^
+AttributeError: 'str' object has no attribute 'get'
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\schedule_tab.py", line 2361, in show_logs_window
+    refresh_logs()
+    ~~~~~~~~~~~~^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\schedule_tab.py", line 2288, in refresh_logs
+    log_text.insert(tk.END, f"  • {dep.get('from', '—')} → {dep.get('to', '—')} (+{dep.get('gap_minutes', 0)} мин)\n")
+                                   ^^^^^^^
+AttributeError: 'str' object has no attribute 'get'
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\schedule_tab.py", line 2395, in show_logs_window
+    refresh_logs()
+    ~~~~~~~~~~~~^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\schedule_tab.py", line 2288, in refresh_logs
+    log_text.insert(tk.END, f"  • {dep.get('from', '—')} → {dep.get('to', '—')} (+{dep.get('gap_minutes', 0)} мин)\n")
+                                   ^^^^^^^
+AttributeError: 'str' object has no attribute 'get'
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\schedule_tab.py", line 2399, in show_logs_window
+    refresh_logs()
+    ~~~~~~~~~~~~^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\schedule_tab.py", line 2304, in refresh_logs
+    cip_count = sum(1 for event in schedule_data if event.get("_auto_cip"))
+  File "c:\Users\bglushuk\Desktop\Prog begin\schedule_tab.py", line 2304, in <genexpr>
+    cip_count = sum(1 for event in schedule_data if event.get("_auto_cip"))
+                                                    ^^^^^^^^^
+AttributeError: 'str' object has no attribute 'get'
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\schedule_tab.py", line 2399, in show_logs_window
+    refresh_logs()
+    ~~~~~~~~~~~~^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\schedule_tab.py", line 2304, in refresh_logs
+    cip_count = sum(1 for event in schedule_data if event.get("_auto_cip"))
+  File "c:\Users\bglushuk\Desktop\Prog begin\schedule_tab.py", line 2304, in <genexpr>
+    cip_count = sum(1 for event in schedule_data if event.get("_auto_cip"))
+                                                    ^^^^^^^^^
+AttributeError: 'str' object has no attribute 'get'
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\planning_tab.py", line 1110, in _run_parse
+    t2,f2,b2 = _extract_type_flavor_brand(name_src, r.get("volume",""))
+               ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\planning_tab.py", line 416, in _extract_type_flavor_brand
+    raw_flv = (m.group(2) or (m.group(3) if m else "") or (m.group(4) if m else "")).strip()
+               ^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'group'
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\planning_tab.py", line 877, in _commit
+    val=_ed_entry.get()
+        ^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get'
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\planning_tab.py", line 877, in _commit
+    val=_ed_entry.get()
+        ^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get'
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\planning_tab.py", line 877, in _commit
+    val=_ed_entry.get()
+        ^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get'
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\planning_tab.py", line 877, in _commit
+    val=_ed_entry.get()
+        ^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get'
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\planning_tab.py", line 893, in _commit
+    tree.set(_ed_item,col_name,val)
+             ^^^^^^^^
+UnboundLocalError: cannot access local variable '_ed_item' where it is not associated with a value
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\planning_tab.py", line 893, in _commit
+    tree.set(_ed_item,col_name,val)
+             ^^^^^^^^
+UnboundLocalError: cannot access local variable '_ed_item' where it is not associated with a value
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\planning_tab.py", line 893, in _commit
+    tree.set(_ed_item,col_name,val)
+             ^^^^^^^^
+UnboundLocalError: cannot access local variable '_ed_item' where it is not associated with a value
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\planning_tab.py", line 893, in _commit
+    tree.set(_ed_item,col_name,val)
+             ^^^^^^^^
+UnboundLocalError: cannot access local variable '_ed_item' where it is not associated with a value
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\planning_tab.py", line 893, in _commit
+    tree.set(_ed_item,col_name,val)
+             ^^^^^^^^
+UnboundLocalError: cannot access local variable '_ed_item' where it is not associated with a value
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\planning_tab.py", line 893, in _commit
+    tree.set(_ed_item,col_name,val)
+             ^^^^^^^^
+UnboundLocalError: cannot access local variable '_ed_item' where it is not associated with a value
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\planning_tab.py", line 893, in _commit
+    tree.set(_ed_item,col_name,val)
+             ^^^^^^^^
+UnboundLocalError: cannot access local variable '_ed_item' where it is not associated with a value
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\planning_tab.py", line 893, in _commit
+    tree.set(_ed_item,col_name,val)
+             ^^^^^^^^
+UnboundLocalError: cannot access local variable '_ed_item' where it is not associated with a value
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\planning_tab.py", line 893, in _commit
+    tree.set(_ed_item,col_name,val)
+             ^^^^^^^^
+UnboundLocalError: cannot access local variable '_ed_item' where it is not associated with a value
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\planning_tab.py", line 893, in _commit
+    tree.set(_ed_item,col_name,val)
+             ^^^^^^^^
+UnboundLocalError: cannot access local variable '_ed_item' where it is not associated with a value
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\planning_tab.py", line 1067, in _open_priority_lock_window
+    plan = _load_json(_PLAN_JSON, [])
+TypeError: show_planning_tab.<locals>._load_json() takes from 0 to 1 positional arguments but 2 were given
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\planning_tab.py", line 1067, in _open_priority_lock_window
+    plan = _load_json(_PLAN_JSON, [])
+TypeError: show_planning_tab.<locals>._load_json() takes from 0 to 1 positional arguments but 2 were given
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\planning_tab.py", line 1067, in _open_priority_lock_window
+    plan = _load_json(_PLAN_JSON, [])
+TypeError: show_planning_tab.<locals>._load_json() takes from 0 to 1 positional arguments but 2 were given
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\planning_tab.py", line 1067, in _open_priority_lock_window
+    plan = _load_json(_PLAN_JSON, [])
+TypeError: show_planning_tab.<locals>._load_json() takes from 0 to 1 positional arguments but 2 were given
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\planning_tab.py", line 1067, in _open_priority_lock_window
+    plan = _load_json(_PLAN_JSON, [])
+TypeError: show_planning_tab.<locals>._load_json() takes from 0 to 1 positional arguments but 2 were given
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\planning_tab.py", line 1067, in _open_priority_lock_window
+    plan = _load_json(_PLAN_JSON, [])
+TypeError: show_planning_tab.<locals>._load_json() takes from 0 to 1 positional arguments but 2 were given
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\planning_tab.py", line 1067, in _open_priority_groups_window
+    plan = _load_json(_PLAN_JSON, [])
+TypeError: show_planning_tab.<locals>._load_json() takes from 0 to 1 positional arguments but 2 were given
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\planning_tab.py", line 1067, in _open_priority_groups_window
+    plan = _load_json(_PLAN_JSON, [])
+TypeError: show_planning_tab.<locals>._load_json() takes from 0 to 1 positional arguments but 2 were given
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\planning_tab.py", line 1067, in _open_priority_groups_window
+    plan = _load_json(_PLAN_JSON, [])
+TypeError: show_planning_tab.<locals>._load_json() takes from 0 to 1 positional arguments but 2 were given
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\planning_tab.py", line 1067, in _open_priority_groups_window
+    plan = _load_json(_PLAN_JSON, [])
+TypeError: show_planning_tab.<locals>._load_json() takes from 0 to 1 positional arguments but 2 were given
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\planning_tab.py", line 1067, in _open_priority_groups_window
+    plan = _load_json(_PLAN_JSON, [])
+TypeError: show_planning_tab.<locals>._load_json() takes from 0 to 1 positional arguments but 2 were given
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\planning_tab.py", line 1067, in _open_priority_groups_window
+    plan = _load_json(_PLAN_JSON, [])
+TypeError: show_planning_tab.<locals>._load_json() takes from 0 to 1 positional arguments but 2 were given
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\planning_tab.py", line 1067, in _open_priority_groups_window
+    plan = _load_json(_PLAN_JSON, [])
+TypeError: show_planning_tab.<locals>._load_json() takes from 0 to 1 positional arguments but 2 were given
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\planning_tab.py", line 1067, in _open_priority_groups_window
+    plan = _load_json(_PLAN_JSON, [])
+TypeError: show_planning_tab.<locals>._load_json() takes from 0 to 1 positional arguments but 2 were given
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\planning_tab.py", line 1067, in _open_priority_groups_window
+    plan = _load_json(_PLAN_JSON, [])
+TypeError: show_planning_tab.<locals>._load_json() takes from 0 to 1 positional arguments but 2 were given
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\planning_tab.py", line 1067, in _open_priority_groups_window
+    plan = _load_json(_PLAN_JSON, [])
+TypeError: show_planning_tab.<locals>._load_json() takes from 0 to 1 positional arguments but 2 were given
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\planning_tab.py", line 1067, in _open_priority_groups_window
+    plan = _load_json(_PLAN_JSON, [])
+TypeError: show_planning_tab.<locals>._load_json() takes from 0 to 1 positional arguments but 2 were given
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\planning_tab.py", line 1067, in _open_priority_groups_window
+    plan = _load_json(_PLAN_JSON, [])
+TypeError: show_planning_tab.<locals>._load_json() takes from 0 to 1 positional arguments but 2 were given
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\planning_tab.py", line 1067, in _open_priority_groups_window
+    plan = _load_json(_PLAN_JSON, [])
+TypeError: show_planning_tab.<locals>._load_json() takes from 0 to 1 positional arguments but 2 were given
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\planning_tab.py", line 1478, in _run_parse
+    t2,f2,b2 = _extract_type_flavor_brand(name_src, r.get("volume",""))
+               ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\planning_tab.py", line 520, in _extract_type_flavor_brand
+    raw_flv = (m.group(2) or (m.group(3) if m else "") or (m.group(4) if m else "")).strip()
+               ^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'group'
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\schedule_excel_export.py", line 420, in _browse_file
+    filename = filedialog.asksaveasfilename(
+        title="Сохранить расписание в Excel",
+    ...<2 lines>...
+        initialvalue=self.filename_var.get()
+    )
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\filedialog.py", line 390, in asksaveasfilename
+    return SaveAs(**options).show()
+           ~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\commondialog.py", line 45, in show
+    s = master.tk.call(self.command, *master._options(self.options))
+_tkinter.TclError: bad option "-initialvalue": must be -confirmoverwrite, -defaultextension, -filetypes, -initialdir, -initialfile, -parent, -title, or -typevariable
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\schedule_excel_export.py", line 420, in _browse_file
+    filename = filedialog.asksaveasfilename(
+        title="Сохранить расписание в Excel",
+    ...<2 lines>...
+        initialvalue=self.filename_var.get()
+    )
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\filedialog.py", line 390, in asksaveasfilename
+    return SaveAs(**options).show()
+           ~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\commondialog.py", line 45, in show
+    s = master.tk.call(self.command, *master._options(self.options))
+_tkinter.TclError: bad option "-initialvalue": must be -confirmoverwrite, -defaultextension, -filetypes, -initialdir, -initialfile, -parent, -title, or -typevariable
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\schedule_excel_export.py", line 500, in _browse_file
+    filename = filedialog.asksaveasfilename(
+        title="Сохранить расписание в Excel",
+    ...<2 lines>...
+        initialvalue=self.filename_var.get()
+    )
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\filedialog.py", line 390, in asksaveasfilename
+    return SaveAs(**options).show()
+           ~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\commondialog.py", line 45, in show
+    s = master.tk.call(self.command, *master._options(self.options))
+_tkinter.TclError: bad option "-initialvalue": must be -confirmoverwrite, -defaultextension, -filetypes, -initialdir, -initialfile, -parent, -title, or -typevariable
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\schedule_excel_export.py", line 500, in _browse_file
+    filename = filedialog.asksaveasfilename(
+        title="Сохранить расписание в Excel",
+    ...<2 lines>...
+        initialvalue=self.filename_var.get()
+    )
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\filedialog.py", line 390, in asksaveasfilename
+    return SaveAs(**options).show()
+           ~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\commondialog.py", line 45, in show
+    s = master.tk.call(self.command, *master._options(self.options))
+_tkinter.TclError: bad option "-initialvalue": must be -confirmoverwrite, -defaultextension, -filetypes, -initialdir, -initialfile, -parent, -title, or -typevariable
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\planning_tab.py", line 1478, in _run_parse
+    t2,f2,b2 = _extract_type_flavor_brand(name_src, r.get("volume",""))
+               ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\planning_tab.py", line 520, in _extract_type_flavor_brand
+    raw_flv = (m.group(2) or (m.group(3) if m else "") or (m.group(4) if m else "")).strip()
+               ^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'group'
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\planning_tab.py", line 1478, in _run_parse
+    t2,f2,b2 = _extract_type_flavor_brand(name_src, r.get("volume",""))
+               ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\planning_tab.py", line 520, in _extract_type_flavor_brand
+    raw_flv = (m.group(2) or (m.group(3) if m else "") or (m.group(4) if m else "")).strip()
+               ^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'group'
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\planning_tab.py", line 1478, in _run_parse
+    t2,f2,b2 = _extract_type_flavor_brand(name_src, r.get("volume",""))
+               ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\planning_tab.py", line 520, in _extract_type_flavor_brand
+    raw_flv = (m.group(2) or (m.group(3) if m else "") or (m.group(4) if m else "")).strip()
+               ^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'group'
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\planning_tab.py", line 1494, in _run_parse
+    t2,f2,b2 = _extract_type_flavor_brand(name_src, r.get("volume",""))
+               ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\planning_tab.py", line 532, in _extract_type_flavor_brand
+    raw_flv = (m.group(2) or (m.group(3) if m else "") or (m.group(4) if m else "")).strip()
+               ^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'group'
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\planning_tab.py", line 1494, in _run_parse
+    t2,f2,b2 = _extract_type_flavor_brand(name_src, r.get("volume",""))
+               ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\planning_tab.py", line 532, in _extract_type_flavor_brand
+    raw_flv = (m.group(2) or (m.group(3) if m else "") or (m.group(4) if m else "")).strip()
+               ^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'group'
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\planning_tab.py", line 1494, in _run_parse
+    t2,f2,b2 = _extract_type_flavor_brand(name_src, r.get("volume",""))
+               ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\planning_tab.py", line 532, in _extract_type_flavor_brand
+    raw_flv = (m.group(2) or (m.group(3) if m else "") or (m.group(4) if m else "")).strip()
+               ^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'group'
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\planning_tab.py", line 1509, in _run_parse
+    t2,f2,b2 = _extract_type_flavor_brand(name_src, r.get("volume",""))
+               ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\planning_tab.py", line 544, in _extract_type_flavor_brand
+    raw_flv = (m.group(2) or (m.group(3) if m else "") or (m.group(4) if m else "")).strip()
+               ^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'group'
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\planning_tab.py", line 1531, in _run_parse
+    t2,f2,b2 = _extract_type_flavor_brand(name_src, r.get("volume",""))
+               ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\planning_tab.py", line 566, in _extract_type_flavor_brand
+    raw_flv = (m.group(2) or (m.group(3) if m else "") or (m.group(4) if m else "")).strip()
+               ^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'group'
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\json_import_tab.py", line 577, in _toggle_downtimes
+    for child in list(self.tree.get_children(item)):
+                      ~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\ttk.py", line 1205, in get_children
+    self.tk.call(self._w, "children", item or '') or ())
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+_tkinter.TclError: Item I001 not found
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\json_import_tab.py", line 577, in _toggle_downtimes
+    for child in list(self.tree.get_children(item)):
+                      ~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\ttk.py", line 1205, in get_children
+    self.tk.call(self._w, "children", item or '') or ())
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+_tkinter.TclError: Item I001 not found
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\json_import_tab.py", line 577, in _toggle_downtimes
+    def _toggle_downtimes(self):
+    
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\ttk.py", line 1205, in get_children
+    self.tk.call(self._w, "children", item or '') or ())
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+_tkinter.TclError: Item I001 not found
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\json_import_tab.py", line 577, in _toggle_downtimes
+    def _toggle_downtimes(self):
+    
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\ttk.py", line 1205, in get_children
+    self.tk.call(self._w, "children", item or '') or ())
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+_tkinter.TclError: Item I001 not found
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\json_import_tab.py", line 565, in _on_mouse_motion
+    tooltip_text = self.tree.set(item, "tooltip")
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\ttk.py", line 1444, in set
+    res = self.tk.call(self._w, "set", item, column, value)
+_tkinter.TclError: Invalid column index tooltip
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\json_import_tab.py", line 565, in _on_mouse_motion
+    tooltip_text = self.tree.set(item, "tooltip")
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\ttk.py", line 1444, in set
+    res = self.tk.call(self._w, "set", item, column, value)
+_tkinter.TclError: Invalid column index tooltip
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\json_import_tab.py", line 565, in _on_mouse_motion
+    tooltip_text = self.tree.set(item, "tooltip")
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\ttk.py", line 1444, in set
+    res = self.tk.call(self._w, "set", item, column, value)
+_tkinter.TclError: Invalid column index tooltip
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\json_import_tab.py", line 565, in _on_mouse_motion
+    tooltip_text = self.tree.set(item, "tooltip")
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\ttk.py", line 1444, in set
+    res = self.tk.call(self._w, "set", item, column, value)
+_tkinter.TclError: Invalid column index tooltip
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\json_import_tab.py", line 565, in _on_mouse_motion
+    tooltip_text = self.tree.set(item, "tooltip")
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\ttk.py", line 1444, in set
+    res = self.tk.call(self._w, "set", item, column, value)
+_tkinter.TclError: Invalid column index tooltip
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\json_import_tab.py", line 565, in _on_mouse_motion
+    tooltip_text = self.tree.set(item, "tooltip")
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\ttk.py", line 1444, in set
+    res = self.tk.call(self._w, "set", item, column, value)
+_tkinter.TclError: Invalid column index tooltip
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\json_import_tab.py", line 565, in _on_mouse_motion
+    tooltip_text = self.tree.set(item, "tooltip")
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\ttk.py", line 1444, in set
+    res = self.tk.call(self._w, "set", item, column, value)
+_tkinter.TclError: Invalid column index tooltip
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\json_import_tab.py", line 565, in _on_mouse_motion
+    tooltip_text = self.tree.set(item, "tooltip")
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\ttk.py", line 1444, in set
+    res = self.tk.call(self._w, "set", item, column, value)
+_tkinter.TclError: Invalid column index tooltip
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\json_import_tab.py", line 565, in _on_mouse_motion
+    tooltip_text = self.tree.set(item, "tooltip")
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\ttk.py", line 1444, in set
+    res = self.tk.call(self._w, "set", item, column, value)
+_tkinter.TclError: Invalid column index tooltip
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\json_import_tab.py", line 565, in _on_mouse_motion
+    tooltip_text = self.tree.set(item, "tooltip")
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\ttk.py", line 1444, in set
+    res = self.tk.call(self._w, "set", item, column, value)
+_tkinter.TclError: Invalid column index tooltip
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\json_import_tab.py", line 565, in _on_mouse_motion
+    tooltip_text = self.tree.set(item, "tooltip")
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\ttk.py", line 1444, in set
+    res = self.tk.call(self._w, "set", item, column, value)
+_tkinter.TclError: Invalid column index tooltip
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\json_import_tab.py", line 565, in _on_mouse_motion
+    tooltip_text = self.tree.set(item, "tooltip")
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\ttk.py", line 1444, in set
+    res = self.tk.call(self._w, "set", item, column, value)
+_tkinter.TclError: Invalid column index tooltip
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\json_import_tab.py", line 565, in _on_mouse_motion
+    tooltip_text = self.tree.set(item, "tooltip")
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\ttk.py", line 1444, in set
+    res = self.tk.call(self._w, "set", item, column, value)
+_tkinter.TclError: Invalid column index tooltip
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\json_import_tab.py", line 565, in _on_mouse_motion
+    tooltip_text = self.tree.set(item, "tooltip")
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\ttk.py", line 1444, in set
+    res = self.tk.call(self._w, "set", item, column, value)
+_tkinter.TclError: Invalid column index tooltip
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\json_import_tab.py", line 565, in _on_mouse_motion
+    tooltip_text = self.tree.set(item, "tooltip")
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\ttk.py", line 1444, in set
+    res = self.tk.call(self._w, "set", item, column, value)
+_tkinter.TclError: Invalid column index tooltip
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\json_import_tab.py", line 565, in _on_mouse_motion
+    tooltip_text = self.tree.set(item, "tooltip")
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\ttk.py", line 1444, in set
+    res = self.tk.call(self._w, "set", item, column, value)
+_tkinter.TclError: Invalid column index tooltip
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\json_import_tab.py", line 565, in _on_mouse_motion
+    tooltip_text = self.tree.set(item, "tooltip")
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\ttk.py", line 1444, in set
+    res = self.tk.call(self._w, "set", item, column, value)
+_tkinter.TclError: Invalid column index tooltip
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\json_import_tab.py", line 565, in _on_mouse_motion
+    tooltip_text = self.tree.set(item, "tooltip")
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\ttk.py", line 1444, in set
+    res = self.tk.call(self._w, "set", item, column, value)
+_tkinter.TclError: Invalid column index tooltip
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\json_import_tab.py", line 565, in _on_mouse_motion
+    tooltip_text = self.tree.set(item, "tooltip")
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\ttk.py", line 1444, in set
+    res = self.tk.call(self._w, "set", item, column, value)
+_tkinter.TclError: Invalid column index tooltip
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\json_import_tab.py", line 565, in _on_mouse_motion
+    tooltip_text = self.tree.set(item, "tooltip")
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\ttk.py", line 1444, in set
+    res = self.tk.call(self._w, "set", item, column, value)
+_tkinter.TclError: Invalid column index tooltip
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\json_import_tab.py", line 565, in _on_mouse_motion
+    tooltip_text = self.tree.set(item, "tooltip")
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\ttk.py", line 1444, in set
+    res = self.tk.call(self._w, "set", item, column, value)
+_tkinter.TclError: Invalid column index tooltip
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\json_import_tab.py", line 565, in _on_mouse_motion
+    tooltip_text = self.tree.set(item, "tooltip")
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\ttk.py", line 1444, in set
+    res = self.tk.call(self._w, "set", item, column, value)
+_tkinter.TclError: Invalid column index tooltip
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\json_import_tab.py", line 565, in _on_mouse_motion
+    tooltip_text = self.tree.set(item, "tooltip")
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\ttk.py", line 1444, in set
+    res = self.tk.call(self._w, "set", item, column, value)
+_tkinter.TclError: Invalid column index tooltip
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\json_import_tab.py", line 565, in _on_mouse_motion
+    tooltip_text = self.tree.set(item, "tooltip")
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\ttk.py", line 1444, in set
+    res = self.tk.call(self._w, "set", item, column, value)
+_tkinter.TclError: Invalid column index tooltip
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\json_import_tab.py", line 565, in _on_mouse_motion
+    tooltip_text = self.tree.set(item, "tooltip")
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\ttk.py", line 1444, in set
+    res = self.tk.call(self._w, "set", item, column, value)
+_tkinter.TclError: Invalid column index tooltip
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\json_import_tab.py", line 565, in _on_mouse_motion
+    tooltip_text = self.tree.set(item, "tooltip")
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\ttk.py", line 1444, in set
+    res = self.tk.call(self._w, "set", item, column, value)
+_tkinter.TclError: Invalid column index tooltip
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\json_import_tab.py", line 565, in _on_mouse_motion
+    tooltip_text = self.tree.set(item, "tooltip")
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\ttk.py", line 1444, in set
+    res = self.tk.call(self._w, "set", item, column, value)
+_tkinter.TclError: Invalid column index tooltip
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\json_import_tab.py", line 565, in _on_mouse_motion
+    tooltip_text = self.tree.set(item, "tooltip")
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\ttk.py", line 1444, in set
+    res = self.tk.call(self._w, "set", item, column, value)
+_tkinter.TclError: Invalid column index tooltip
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\json_import_tab.py", line 565, in _on_mouse_motion
+    tooltip_text = self.tree.set(item, "tooltip")
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\ttk.py", line 1444, in set
+    res = self.tk.call(self._w, "set", item, column, value)
+_tkinter.TclError: Invalid column index tooltip
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\json_import_tab.py", line 565, in _on_mouse_motion
+    tooltip_text = self.tree.set(item, "tooltip")
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\ttk.py", line 1444, in set
+    res = self.tk.call(self._w, "set", item, column, value)
+_tkinter.TclError: Invalid column index tooltip
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\json_import_tab.py", line 565, in _on_mouse_motion
+    tooltip_text = self.tree.set(item, "tooltip")
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\ttk.py", line 1444, in set
+    res = self.tk.call(self._w, "set", item, column, value)
+_tkinter.TclError: Invalid column index tooltip
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\json_import_tab.py", line 565, in _on_mouse_motion
+    tooltip_text = self.tree.set(item, "tooltip")
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\ttk.py", line 1444, in set
+    res = self.tk.call(self._w, "set", item, column, value)
+_tkinter.TclError: Invalid column index tooltip
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\json_import_tab.py", line 565, in _on_mouse_motion
+    tooltip_text = self.tree.set(item, "tooltip")
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\ttk.py", line 1444, in set
+    res = self.tk.call(self._w, "set", item, column, value)
+_tkinter.TclError: Invalid column index tooltip
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\json_import_tab.py", line 565, in _on_mouse_motion
+    tooltip_text = self.tree.set(item, "tooltip")
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\ttk.py", line 1444, in set
+    res = self.tk.call(self._w, "set", item, column, value)
+_tkinter.TclError: Invalid column index tooltip
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\json_import_tab.py", line 565, in _on_mouse_motion
+    tooltip_text = self.tree.set(item, "tooltip")
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\ttk.py", line 1444, in set
+    res = self.tk.call(self._w, "set", item, column, value)
+_tkinter.TclError: Invalid column index tooltip
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\json_import_tab.py", line 565, in _on_mouse_motion
+    tooltip_text = self.tree.set(item, "tooltip")
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\ttk.py", line 1444, in set
+    res = self.tk.call(self._w, "set", item, column, value)
+_tkinter.TclError: Invalid column index tooltip
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\json_import_tab.py", line 565, in _on_mouse_motion
+    tooltip_text = self.tree.set(item, "tooltip")
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\ttk.py", line 1444, in set
+    res = self.tk.call(self._w, "set", item, column, value)
+_tkinter.TclError: Invalid column index tooltip
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\json_import_tab.py", line 565, in _on_mouse_motion
+    tooltip_text = self.tree.set(item, "tooltip")
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\ttk.py", line 1444, in set
+    res = self.tk.call(self._w, "set", item, column, value)
+_tkinter.TclError: Invalid column index tooltip
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\json_import_tab.py", line 565, in _on_mouse_motion
+    tooltip_text = self.tree.set(item, "tooltip")
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\ttk.py", line 1444, in set
+    res = self.tk.call(self._w, "set", item, column, value)
+_tkinter.TclError: Invalid column index tooltip
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\json_import_tab.py", line 565, in _on_mouse_motion
+    tooltip_text = self.tree.set(item, "tooltip")
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\ttk.py", line 1444, in set
+    res = self.tk.call(self._w, "set", item, column, value)
+_tkinter.TclError: Invalid column index tooltip
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\json_import_tab.py", line 565, in _on_mouse_motion
+    tooltip_text = self.tree.set(item, "tooltip")
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\ttk.py", line 1444, in set
+    res = self.tk.call(self._w, "set", item, column, value)
+_tkinter.TclError: Invalid column index tooltip
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\json_import_tab.py", line 565, in _on_mouse_motion
+    tooltip_text = self.tree.set(item, "tooltip")
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\ttk.py", line 1444, in set
+    res = self.tk.call(self._w, "set", item, column, value)
+_tkinter.TclError: Invalid column index tooltip
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\json_import_tab.py", line 565, in _on_mouse_motion
+    tooltip_text = self.tree.set(item, "tooltip")
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\ttk.py", line 1444, in set
+    res = self.tk.call(self._w, "set", item, column, value)
+_tkinter.TclError: Invalid column index tooltip
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\json_import_tab.py", line 565, in _on_mouse_motion
+    tooltip_text = self.tree.set(item, "tooltip")
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\ttk.py", line 1444, in set
+    res = self.tk.call(self._w, "set", item, column, value)
+_tkinter.TclError: Invalid column index tooltip
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\json_import_tab.py", line 565, in _on_mouse_motion
+    tooltip_text = self.tree.set(item, "tooltip")
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\ttk.py", line 1444, in set
+    res = self.tk.call(self._w, "set", item, column, value)
+_tkinter.TclError: Invalid column index tooltip
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\json_import_tab.py", line 565, in _on_mouse_motion
+    tooltip_text = self.tree.set(item, "tooltip")
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\ttk.py", line 1444, in set
+    res = self.tk.call(self._w, "set", item, column, value)
+_tkinter.TclError: Invalid column index tooltip
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\json_import_tab.py", line 565, in _on_mouse_motion
+    tooltip_text = self.tree.set(item, "tooltip")
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\ttk.py", line 1444, in set
+    res = self.tk.call(self._w, "set", item, column, value)
+_tkinter.TclError: Invalid column index tooltip
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\json_import_tab.py", line 565, in _on_mouse_motion
+    tooltip_text = self.tree.set(item, "tooltip")
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\ttk.py", line 1444, in set
+    res = self.tk.call(self._w, "set", item, column, value)
+_tkinter.TclError: Invalid column index tooltip
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\json_import_tab.py", line 565, in _on_mouse_motion
+    tooltip_text = self.tree.set(item, "tooltip")
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\ttk.py", line 1444, in set
+    res = self.tk.call(self._w, "set", item, column, value)
+_tkinter.TclError: Invalid column index tooltip
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\json_import_tab.py", line 565, in _on_mouse_motion
+    tooltip_text = self.tree.set(item, "tooltip")
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\ttk.py", line 1444, in set
+    res = self.tk.call(self._w, "set", item, column, value)
+_tkinter.TclError: Invalid column index tooltip
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\json_import_tab.py", line 565, in _on_mouse_motion
+    tooltip_text = self.tree.set(item, "tooltip")
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\ttk.py", line 1444, in set
+    res = self.tk.call(self._w, "set", item, column, value)
+_tkinter.TclError: Invalid column index tooltip
+Traceback (most recent call last):
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 2074, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "c:\Users\bglushuk\Desktop\Prog begin\json_import_tab.py", line 852, in _toggle_downtimes
+    for child in list(self.tree.get_children(item)):
+                      ~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\bglushuk\AppData\Local\Programs\Python\Python313\Lib\tkinter\ttk.py", line 1205, in get_children
+    self.tk.call(self._w, "children", item or '') or ())
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+_tkinter.TclError: Item I001 not found
