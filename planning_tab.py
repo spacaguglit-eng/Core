@@ -783,7 +783,6 @@ def show_planning_tab(nb: ttk.Notebook):
     sub = ttk.Notebook(tab_planning); sub.pack(fill="both", expand=True)
     tab_plan  = ttk.Frame(sub); sub.add(tab_plan, text="План")
     tab_sched = ttk.Frame(sub); sub.add(tab_sched, text="Расписание")
-    tab_fact  = ttk.Frame(sub); sub.add(tab_fact, text="Факт/План")
     tab_import= ttk.Frame(sub); sub.add(tab_import, text="Импорт")
 
     # ---------- ПЛАН ----------
@@ -1505,16 +1504,6 @@ def show_planning_tab(nb: ttk.Notebook):
         ttk.Label(tab_schedule_import, text=f"Ошибка при инициализации импорта: {e}", foreground="#a00")\
            .pack(anchor="w", padx=8, pady=8)
     
-    # ---------- ФАКТ/ПЛАН ----------
-    try:
-        from fact_comparison_tab import FactComparisonTab
-        FactComparisonTab(tab_fact, parent_notebook=nb)
-    except Exception as e:
-        import traceback
-        traceback.print_exc()
-        ttk.Label(tab_fact, text=f"Ошибка при инициализации сравнения: {e}", foreground="#a00")\
-           .pack(anchor="w", padx=8, pady=8)
-
     # ---------- ИМПОРТ ----------
     top_imp = ttk.Frame(tab_import); top_imp.pack(fill="x", padx=8, pady=(8,4))
     btn_clip  = ttk.Button(top_imp, text="📋 Вставить из буфера")
